@@ -1,6 +1,6 @@
-# flutter_application_hotel
+# flutter_application_occ
 
-A new Flutter project.
+OCC 프로젝트
 
 ## Getting Started
 
